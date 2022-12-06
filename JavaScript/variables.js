@@ -1,0 +1,6 @@
+let a = ("Hey I am let and latest and best way to assign variables. You can use even use me in a block and I am also updatable and but can't be re-declarified.")
+console.log(a)
+var b = ("Hey I am var and oldest way to assign variables. You should not use me because i can't be used in block as local variable.")
+console.log(b)
+const c = ("Hey I am const and used to make variable that can't be updated and re-declarified.")
+console.log(c)
